@@ -1,2 +1,3 @@
 # AIGC-Detection-Training-Dataset
 AIGC检测训练用数据集，用于DeepVeri的模型训练
+数据集采用csv格式，并已创建好表头，共有三个文件，其中csl_camera_readly爬取的是ai爆发之前的论文摘要，共17万篇，另外两个文件是使用程序随机在17万篇里抽取的7000篇人类文章和根据前面7000篇人类文章进行各种改写和润色的ai文章
